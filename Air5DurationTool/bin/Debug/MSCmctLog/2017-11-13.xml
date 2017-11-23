@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="LogFile.xsl" type="text/xsl"?>
+<LogFile>
+<LogItem><Date>2017-11-13</Date><Time>09:30:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:30:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:30:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:30:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:30:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:30:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:30:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:36:24</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:36:24</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:36:25</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:36:25</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:36:25</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:36:25</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:36:25</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:58:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:58:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:58:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:58:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:58:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:58:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>09:58:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:01:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:01:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:01:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:01:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:01:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:01:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:01:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:10:25</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:10:25</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:10:26</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:10:26</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:10:26</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:10:26</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:10:26</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:13:12</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:13:12</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:13:13</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:13:13</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:13:13</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:13:13</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:13:13</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:31:11</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:31:11</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:31:12</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:31:12</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:31:12</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:31:12</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:31:12</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:33:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:33:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:33:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:33:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:33:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:33:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:33:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:34:07</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:34:07</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:34:08</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:34:08</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:34:08</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:34:08</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:34:08</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:52:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:52:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:52:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:52:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:52:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:52:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:52:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:55:14</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:55:14</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:55:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:55:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:55:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:55:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:55:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:57:14</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:57:14</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:57:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:57:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:57:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:57:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:57:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:04</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:51</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:51</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:58:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:59:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:59:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:59:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:59:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:59:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:59:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>10:59:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:51</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:51</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:03:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:06:08</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:06:08</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:06:09</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:06:09</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:06:09</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:06:09</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:06:09</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:08:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:08:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:08:17</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:08:17</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:08:17</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:08:17</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:08:17</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:10:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:10:15</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:10:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:10:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:10:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:10:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:10:16</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:14:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:14:52</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:14:53</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:14:53</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:14:53</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:14:53</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:14:53</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:29</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:29</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:30</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:30</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:30</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:30</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:30</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:15:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:16:41</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:16:41</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:16:42</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_CONNNECTMS_ERR </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:16:42</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:16:42</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:16:42</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-11-13</Date><Time>11:16:42</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+</LogFile>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="LogFile.xsl" type="text/xsl"?>
+<LogFile>
+<LogItem><Date>2017-10-18</Date><Time>11:10:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:10:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:10:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_REGIST_VC_ERR</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:10:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:10:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:10:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:10:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:44</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:44</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:44</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:44</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:56</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:56</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:56</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:56</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:56</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:56</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:56</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:56</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:57</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:58</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:11:59</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:00</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:01</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:02</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:12:03</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>MSCMCT_DLL_MSG_REGIST_VC_ERR</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:32</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:33</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:34</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:35</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:36</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:37</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:38</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:39</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:39</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:39</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :99 </LogStr></LogItem>
+<LogItem><Date>2017-10-18</Date><Time>11:14:39</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+</LogFile>

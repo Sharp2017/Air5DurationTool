@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="LogFile.xsl" type="text/xsl"?>
+<LogFile>
+<LogItem><Date>2017-10-19</Date><Time>14:29:47</Time><Param1>0</Param1><Param2>0</Param2><LogStr>memcmp </LogStr></LogItem>
+<LogItem><Date>2017-10-19</Date><Time>14:29:47</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-10-19</Date><Time>14:29:47</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init MediaService OK IP:16777343 Port:30000 </LogStr></LogItem>
+<LogItem><Date>2017-10-19</Date><Time>14:29:47</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init CmcBs  Port:30002</LogStr></LogItem>
+<LogItem><Date>2017-10-19</Date><Time>14:29:47</Time><Param1>0</Param1><Param2>0</Param2><LogStr>Init CmcBs OK:30002</LogStr></LogItem>
+<LogItem><Date>2017-10-19</Date><Time>14:29:47</Time><Param1>0</Param1><Param2>0</Param2><LogStr>UnLoad 通道：0</LogStr></LogItem>
+<LogItem><Date>2017-10-19</Date><Time>14:29:47</Time><Param1>0</Param1><Param2>0</Param2><LogStr>通道：0 已卸载</LogStr></LogItem>
+<LogItem><Date>2017-10-19</Date><Time>14:29:47</Time><Param1>0</Param1><Param2>0</Param2><LogStr>File LEN :58 </LogStr></LogItem>
+<LogItem><Date>2017-10-19</Date><Time>14:29:47</Time><Param1>0</Param1><Param2>0</Param2><LogStr>FILE_TYPE_LOCAL_PATH</LogStr></LogItem>
+</LogFile>

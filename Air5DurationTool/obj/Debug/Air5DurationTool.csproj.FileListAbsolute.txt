@@ -1,0 +1,16 @@
+D:\HRTemp\Air5DurationTool\Air5DurationTool\obj\Debug\Air5DurationTool.FrmMain.resources
+D:\HRTemp\Air5DurationTool\Air5DurationTool\obj\Debug\Air5DurationTool.Properties.Resources.resources
+D:\HRTemp\Air5DurationTool\Air5DurationTool\obj\Debug\Air5DurationTool.csproj.GenerateResource.Cache
+D:\HRTemp\Air5DurationTool\Air5DurationTool\obj\Debug\Air5DurationTool.exe.licenses
+D:\HRTemp\Air5DurationTool\Air5DurationTool\bin\Debug\Air5DurationTool.exe
+D:\HRTemp\Air5DurationTool\Air5DurationTool\bin\Debug\Air5DurationTool.pdb
+D:\HRTemp\Air5DurationTool\Air5DurationTool\bin\Debug\Dart.PowerTCP.Ftp.dll
+D:\HRTemp\Air5DurationTool\Air5DurationTool\bin\Debug\GetProgramPinYin.dll
+D:\HRTemp\Air5DurationTool\Air5DurationTool\bin\Debug\Infomedia.EB.Common.dll
+D:\HRTemp\Air5DurationTool\Air5DurationTool\bin\Debug\Infomedia.EB.Plugins.dll
+D:\HRTemp\Air5DurationTool\Air5DurationTool\bin\Debug\Infomedia.EMB.Executor.dll
+D:\HRTemp\Air5DurationTool\Air5DurationTool\bin\Debug\System.Data.SQLite.dll
+D:\HRTemp\Air5DurationTool\Air5DurationTool\bin\Debug\XStudioDataInfo.dll
+D:\HRTemp\Air5DurationTool\Air5DurationTool\obj\Debug\Air5DurationTool.exe
+D:\HRTemp\Air5DurationTool\Air5DurationTool\obj\Debug\Air5DurationTool.pdb
+D:\HRTemp\Air5DurationTool\Air5DurationTool\obj\Debug\Air5DurationTool.csprojResolveAssemblyReference.cache
